@@ -2,10 +2,10 @@
  
   # Adventour-tourism-website
    Welcome to "Adventour" a travel website created exclusively with `HTML`, `CSS` and a touch of `JavaScript`. Feel free to fork, contribute, or use this open-source project as a learning tool to enhance your HTML and CSS skills.   <br />    <br />
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/iamit010/Adventour-tourism-website).
+Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/imortal001/Adventour-tourism-website).
 <div align="center">
   <br />
-  <a href="https://iamit010.github.io/adventour-tourism-website/"><strong>➥ Live Demo</strong></a>
+  <a href="(https://adventour-booking-site-c7i20tvxb-imortal001s-projects.vercel.app)"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Screeshot
